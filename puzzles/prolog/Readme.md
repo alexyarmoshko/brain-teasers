@@ -1,6 +1,6 @@
 Quick and dirty code in SWI Prolog to find all solutions to a puzzle:
 
-![plot](./prolog/puzzle-1.png)
+![plot](./puzzle-1.png)
 
 Puzzle posted by [Alireza Soroudi](https://www.linkedin.com/in/soroudi/) at [LinkedIn](https://www.linkedin.com/posts/soroudi_optimization-math-dataanalytics-activity-7158847125299105792-lnA-?utm_source=share&utm_medium=member_desktop)
 
